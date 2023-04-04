@@ -2,6 +2,7 @@
 Python script that bruteforces pin requred to watch an event on sporfie.com
 ## how to use
 - install selenium (pip install selenium)
+- make sure, that you have google chrome installed
 - run sporfie_pin_cracker.py
 - enter url adress of page that is protected by pin you want to get
 - reverse parameter - if enabled (y), brutforces from highest pin to the lowest (9999 -> 0000), othervise goes from 0000 up
