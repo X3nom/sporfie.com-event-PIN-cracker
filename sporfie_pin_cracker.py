@@ -74,8 +74,6 @@ def main(url,reverse = False):
 
 if __name__ == '__main__':
     url = input('enter url: ')
-    if url == '':
-        url = 'https://www.sporfie.com/event/-NS0WIJKkqj8jnWv7knu'
     if input('reverse (y/n): ') == 'y':
         r = True
     else:
